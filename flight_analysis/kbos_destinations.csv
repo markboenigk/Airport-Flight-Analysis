@@ -1,0 +1,122 @@
+airport_icao,airport_iata,airport_name,city,route_distance_miles,ete_duration_min,ete_duration_hh_mm,num_departures,num_arrivals,num_flights
+KDCA,DCA,Reagan National,Washington,422.61,66.79,01:07,23.0,24.0,47.0
+KLGA,LGA,LaGuardia,New York,188.68,43.72,00:44,19.0,17.0,36.0
+KORD,ORD,Chicago O'Hare Intl,Chicago,875.67,126.06,02:06,18.0,15.0,33.0
+KPHL,PHL,Philadelphia Intl,Philadelphia,280.0,54.38,00:54,13.0,13.0,26.0
+KATL,ATL,Hartsfield-Jackson Intl,Atlanta,960.77,138.27,02:18,13.0,13.0,26.0
+KCLT,CLT,Charlotte/Douglas Intl,Charlotte,728.0,113.57,01:54,13.0,10.0,23.0
+KMCO,MCO,Orlando Intl,Orlando,1138.6,156.79,02:37,10.0,12.0,22.0
+KJFK,JFK,John F Kennedy Intl,New York,187.0,41.74,00:42,10.0,11.0,21.0
+KBWI,BWI,Baltimore/Washington Intl,Baltimore,369.0,65.44,01:05,12.0,9.0,21.0
+KLAX,LAX,Los Angeles Intl,Los Angeles,2614.9,338.54,05:39,10.0,9.0,19.0
+KDFW,DFW,Dallas-Fort Worth Intl,Dallas-Fort Worth,1561.0,214.63,03:35,11.0,7.0,18.0
+KTPA,TPA,Tampa Intl,Tampa,1229.9,168.24,02:48,10.0,8.0,18.0
+KSFO,SFO,San Francisco Int'l,San Francisco,2700.0,341.22,05:41,11.0,7.0,18.0
+KFLL,FLL,Fort Lauderdale Intl,Fort Lauderdale,1286.1,175.88,02:56,10.0,7.0,17.0
+KEWR,EWR,Newark Liberty Intl,Newark,200.0,46.97,00:47,9.0,8.0,17.0
+KDEN,DEN,Denver Intl,Denver,1751.0,228.9,03:49,10.0,6.0,16.0
+KPBI,PBI,Palm Beach Intl,West Palm Beach,1210.5,174.6,02:55,8.0,7.0,15.0
+KMIA,MIA,Miami Intl,Miami,1274.78,178.04,02:58,9.0,5.0,14.0
+EGLL,LHR,London Heathrow,London,3273.29,390.1,06:30,7.0,6.0,13.0
+TJSJ,SJU,Luis Munoz Marin Intl,San Juan,1703.57,230.19,03:50,7.0,6.0,13.0
+KRDU,RDU,Raleigh-Durham Intl,Raleigh/Durham,631.0,91.19,01:31,8.0,5.0,13.0
+KPIT,PIT,Pittsburgh Intl,Pittsburgh,495.0,76.92,01:17,6.0,6.0,12.0
+KDTW,DTW,Detroit Metro Wayne Co,Detroit,639.67,92.67,01:33,6.0,6.0,12.0
+KIAD,IAD,Washington Dulles Intl,Washington,413.0,75.25,01:15,5.0,6.0,11.0
+KRSW,RSW,Southwest Florida Intl,Fort Myers,1336.5,177.3,02:57,6.0,5.0,11.0
+KBNA,BNA,Nashville Intl,Nashville,942.0,135.45,02:15,6.0,5.0,11.0
+KSEA,SEA,Seattle-Tacoma Intl,Seattle,2501.86,314.66,05:15,7.0,4.0,11.0
+KMSP,MSP,Minneapolis/St Paul Intl,Minneapolis,1122.0,147.1,02:27,5.0,5.0,10.0
+KPHX,PHX,Phoenix Sky Harbor Intl,Phoenix,2298.0,300.34,05:00,6.0,4.0,10.0
+KCMH,CMH,John Glenn Columbus Intl Airport,Columbus,639.0,91.22,01:31,5.0,4.0,9.0
+KJAX,JAX,Jacksonville Intl,Jacksonville,1059.0,138.5,02:18,5.0,4.0,9.0
+KIAH,IAH,Houston Bush Int'ctl,Houston,1617.6,229.67,03:50,5.0,3.0,8.0
+KMSY,MSY,New Orleans Intl,New Orleans,1368.0,198.62,03:19,4.0,4.0,8.0
+KIND,IND,Indianapolis Intl,Indianapolis,817.0,111.75,01:52,4.0,4.0,8.0
+KRIC,RIC,Richmond Intl,Richmond,513.75,88.5,01:28,4.0,4.0,8.0
+KCLE,CLE,Cleveland-Hopkins Intl,Cleveland,562.0,81.25,01:21,4.0,4.0,8.0
+CYUL,YUL,Montreal-Trudeau,Montreal,254.0,51.04,00:51,4.0,3.0,7.0
+EHAM,AMS,Amsterdam Schiphol,Amsterdam,3460.75,405.71,06:46,4.0,3.0,7.0
+KLAS,LAS,Harry Reid Intl,Las Vegas,2391.25,310.29,05:10,4.0,3.0,7.0
+CYYZ,YYZ,Toronto Pearson Int'l,Toronto,445.0,74.12,01:14,3.0,4.0,7.0
+KSTL,STL,St Louis Lambert Intl,St Louis,1045.0,141.21,02:21,3.0,4.0,7.0
+CYTZ,YTZ,Toronto City Centre,Toronto,441.33,86.5,01:26,3.0,3.0,6.0
+KSAV,SAV,Savannah/Hilton Head Intl,Savannah,950.0,131.34,02:11,3.0,3.0,6.0
+KSAN,SAN,San Diego Intl,San Diego,2633.25,338.5,05:38,4.0,2.0,6.0
+EIDW,DUB,Dublin Int'l,Dublin,3011.67,363.9,06:04,3.0,3.0,6.0
+KMSS,MSS,Massena Intl,Massena,285.0,66.17,01:06,3.0,3.0,6.0
+KCVG,CVG,Cincinnati/Northern Kentucky International Airport,Hebron,751.0,105.67,01:46,3.0,3.0,6.0
+TNCA,AUA,Queen Beatrix Int'l,Oranjestad,2105.25,279.38,04:39,4.0,2.0,6.0
+LFPG,CDG,Charles de Gaulle/Roissy,Paris,3492.0,407.84,06:48,3.0,3.0,6.0
+KBUF,BUF,Buffalo Niagara Intl,Buffalo,420.0,71.5,01:12,3.0,2.0,5.0
+KSLC,SLC,Salt Lake City Intl,Salt Lake City,2102.0,263.91,04:24,3.0,2.0,5.0
+LPPT,LIS,General Humberto Delgado Airport,Lisbon,3203.33,387.34,06:27,3.0,2.0,5.0
+MMUN,CUN,Cancun Int'l,Cancun,1739.0,230.92,03:51,3.0,2.0,5.0
+MDPC,PUJ,Punta Cana Int'l,Punta Cana,1691.0,228.5,03:48,3.0,2.0,5.0
+KMDW,MDW,Chicago Midway Intl,Chicago,859.0,121.25,02:01,2.0,3.0,5.0
+KSRQ,SRQ,Sarasota/Bradenton Intl,Sarasota/Bradenton,1319.67,175.25,02:55,3.0,2.0,5.0
+KCHS,CHS,Charleston Intl/AFB,Charleston,897.33,113.34,01:53,3.0,2.0,5.0
+KMYR,MYR,Myrtle Beach Intl,Myrtle Beach,767.0,110.25,01:50,2.0,2.0,4.0
+PHNL,HNL,Daniel K Inouye Intl,Honolulu,5197.0,604.5,10:04,2.0,2.0,4.0
+TXKF,BDA,Bermuda Int'l,Hamilton,782.5,112.5,01:52,2.0,2.0,4.0
+KMCI,MCI,Kansas City Intl,Kansas City,1254.0,165.25,02:45,2.0,2.0,4.0
+KROC,ROC,Frederick Douglass/Greater Rochester Intl,Rochester,343.0,59.0,00:59,2.0,2.0,4.0
+KAUS,AUS,Austin-Bergstrom Intl,Austin,1753.67,231.17,03:51,3.0,1.0,4.0
+KSYR,SYR,Syracuse Hancock Intl,Syracuse,264.0,52.5,00:52,2.0,2.0,4.0
+EKCH,CPH,Copenhagen,Copenhagen,3758.0,463.0,07:43,1.0,2.0,3.0
+KSDF,SDF,Muhammad Ali Intl,Louisville,828.0,118.75,01:59,2.0,1.0,3.0
+MDSD,SDQ,Las Americas,Punta Caucedo,1720.5,230.25,03:50,2.0,1.0,3.0
+KMKE,MKE,Milwaukee Mitchell Intl Airport,Milwaukee,859.0,116.5,01:56,2.0,1.0,3.0
+MYNN,NAS,Lynden Pindling Int'l (Nassau),Nassau,1254.0,172.25,02:52,2.0,1.0,3.0
+MDST,STI,Cibao Int'l (Santiago Municipal),Santiago,1588.0,220.5,03:40,2.0,1.0,3.0
+KSAT,SAT,San Antonio Intl,San Antonio,1764.0,234.5,03:54,1.0,1.0,2.0
+EINN,SNN,Shannon,Shannon,2958.0,350.5,05:50,1.0,1.0,2.0
+OTHH,DOH,Hamad Int'l,Doha,6585.0,816.02,13:36,1.0,1.0,2.0
+RJAA,NRT,Narita Int'l,Tokyo (Narita),6803.0,749.5,12:30,1.0,1.0,2.0
+LTFM,IST,Istanbul Airport,Istanbul,4873.0,570.0,09:30,1.0,1.0,2.0
+SBGR,GRU,São Paulo-Guarulhos Int'l,Sao Paulo,4813.0,554.0,09:14,1.0,1.0,2.0
+KTEB,TEB,Teterboro,Teterboro,327.5,54.0,00:54,2.0,,2.0
+OMDB,DXB,Dubai Int'l,Dubai,6708.0,726.5,12:06,1.0,1.0,2.0
+MWCR,GCM,Owen Roberts/Grand Cayman,George Town,1842.0,223.0,03:43,1.0,1.0,2.0
+EDDF,FRA,Frankfurt Int'l,Frankfurt am Main,3701.0,433.5,07:14,1.0,1.0,2.0
+MKJS,MBJ,Sangster Int'l,Montego Bay,1699.0,230.5,03:50,1.0,1.0,2.0
+RKSI,ICN,Incheon Int'l,Seoul (Incheon),7880.0,831.5,13:52,1.0,1.0,2.0
+MPTO,PTY,Tocumen Int'l,Panama City,2358.0,304.5,05:04,1.0,1.0,2.0
+LIRF,FCO,Leonardo da Vinci Int'l (Fiumicino Int'l),Rome,4086.0,476.5,07:56,1.0,1.0,2.0
+KVPS,VPS,Eglin AFB/Destin-Ft Walton Beach,Valparaiso/Destin-Ft Walton Beach,1189.0,163.5,02:44,1.0,1.0,2.0
+KPQI,PQI,N Maine,Presque Isle,348.0,53.5,00:54,1.0,1.0,2.0
+KLEB,LEB,Lebanon Muni,Lebanon,115.5,34.0,00:34,,2.0,2.0
+MSLP,SAL,El Salvador Int'l,San Salvador,2581.0,305.5,05:06,1.0,1.0,2.0
+EDDM,MUC,Munich Int'l,Munich,3894.0,435.5,07:16,1.0,1.0,2.0
+OMAA,AUH,Abu Dhabi Int'l,Abu Dhabi,7206.0,734.5,12:14,1.0,1.0,2.0
+KMDT,MDT,Harrisburg Intl,Harrisburg,335.0,53.0,00:53,1.0,1.0,2.0
+KEYW,EYW,Key West Intl,Key West,1376.0,188.0,03:08,1.0,1.0,2.0
+KMVY,MVY,Martha's Vineyard,Vineyard Haven,138.0,33.5,00:34,,2.0,2.0
+TNCM,SXM,Princess Juliana Int'l,St Maarten,1745.0,241.5,04:02,1.0,1.0,2.0
+KAVL,AVL,Asheville Rgnl,Asheville,866.0,112.0,01:52,1.0,1.0,2.0
+BIKF,KEF,Keflavik Int'l,Keflavik,2410.0,310.0,05:10,1.0,1.0,2.0
+KMEM,MEM,Memphis Intl,Memphis,1139.0,149.5,02:30,1.0,1.0,2.0
+MRLB,LIR,Guanacaste,Liberia,2367.0,323.5,05:24,1.0,1.0,2.0
+LOWW,VIE,Vienna Int'l (Schwechat),Vienna,4147.0,530.0,08:50,,1.0,1.0
+KMZJ,MZJ,Pinal Airpark,Marana,2400.0,336.0,05:36,1.0,,1.0
+KBCT,BCT,Boca Raton,Boca Raton,1220.0,180.0,03:00,1.0,,1.0
+VHHH,HKG,Hong Kong Int'l,Hong Kong,8356.0,890.0,14:50,1.0,,1.0
+KSLK,SLK,Adirondack Rgnl,Saranac Lake,230.0,76.0,01:16,,1.0,1.0
+CYOW,YOW,Ottawa Macdonald-Cartier Int'l,Ottawa,346.0,98.0,01:38,1.0,,1.0
+LEMD,MAD,Adolfo Suárez Madrid-Barajas,Madrid,3441.0,421.0,07:01,,1.0,1.0
+KHPN,HPN,Westchester County,White Plains,241.0,42.0,00:42,1.0,,1.0
+LLBG,TLV,Ben Gurion Int'l,Tel Aviv,5552.0,618.0,10:18,,1.0,1.0
+KSBA,SBA,Santa Barbara Muni,Santa Barbara,2666.0,368.0,06:08,1.0,,1.0
+MMMX,MEX,Lic. Benito Juarez Int'l,Mexico City,2280.0,304.0,05:04,1.0,,1.0
+CYHZ,YHZ,Halifax Int'l,Halifax,414.0,86.0,01:26,,1.0,1.0
+LSZH,ZRH,Zurich (Kloten),Zurich,3829.0,416.0,06:56,1.0,,1.0
+KBED,BED,Laurence G Hanscom Fld,Bedford,42.0,68.0,01:08,,1.0,1.0
+KBKL,BKL,Burke Lakefront,Cleveland,594.0,117.0,01:57,1.0,,1.0
+KSDL,SCF,Scottsdale,Scottsdale,2416.0,270.0,04:30,,1.0,1.0
+KRKD,RKD,Knox County Rgnl,Rockland,152.0,46.0,00:46,,1.0,1.0
+KPNE,PNE,Northeast Philadelphia,Philadelphia,330.0,46.0,00:46,,1.0,1.0
+KPDX,PDX,Portland Intl,Portland,2533.0,291.0,04:51,,1.0,1.0
+TLPC,SLU,George F. L. Charles,Castries,2068.0,226.0,03:46,1.0,,1.0
+LPPD,PDL,Ponta Delgada Joao Paulo II,Ponta Delgada,2404.0,258.0,04:18,1.0,,1.0
+KORH,ORH,Worcester Rgnl,Worcester,45.0,16.0,00:16,,1.0,1.0
+KITH,ITH,Ithaca Tompkins Intl,Ithaca,312.0,49.0,00:49,,1.0,1.0
